@@ -2,7 +2,7 @@
 using System;
 using System.Threading.Tasks;
 using GrpcServer;
-using Grpc.Core; // 추가된 using 지시문
+using Grpc.Core;
 
 namespace GrpcClient
 {
